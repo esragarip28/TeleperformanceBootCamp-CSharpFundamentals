@@ -1,0 +1,16 @@
+E:\Teleperformance Camp\OOP\09_Inheritance\bin\Debug\net5.0\09_Inheritance.exe
+E:\Teleperformance Camp\OOP\09_Inheritance\bin\Debug\net5.0\09_Inheritance.deps.json
+E:\Teleperformance Camp\OOP\09_Inheritance\bin\Debug\net5.0\09_Inheritance.runtimeconfig.json
+E:\Teleperformance Camp\OOP\09_Inheritance\bin\Debug\net5.0\09_Inheritance.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\09_Inheritance\bin\Debug\net5.0\09_Inheritance.dll
+E:\Teleperformance Camp\OOP\09_Inheritance\bin\Debug\net5.0\09_Inheritance.pdb
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.dll
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\refint\09_Inheritance.dll
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.pdb
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.genruntimeconfig.cache
+E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\ref\09_Inheritance.dll

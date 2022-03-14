@@ -1,0 +1,5 @@
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.csproj.CoreCompileInputs.cache

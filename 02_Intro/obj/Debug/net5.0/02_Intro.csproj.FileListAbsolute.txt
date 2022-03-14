@@ -1,0 +1,16 @@
+E:\Teleperformance Camp\OOP\02_Intro\bin\Debug\net5.0\02_Intro.exe
+E:\Teleperformance Camp\OOP\02_Intro\bin\Debug\net5.0\02_Intro.deps.json
+E:\Teleperformance Camp\OOP\02_Intro\bin\Debug\net5.0\02_Intro.runtimeconfig.json
+E:\Teleperformance Camp\OOP\02_Intro\bin\Debug\net5.0\02_Intro.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\02_Intro\bin\Debug\net5.0\02_Intro.dll
+E:\Teleperformance Camp\OOP\02_Intro\bin\Debug\net5.0\02_Intro.pdb
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.dll
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\refint\02_Intro.dll
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.pdb
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.genruntimeconfig.cache
+E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\ref\02_Intro.dll

@@ -1,0 +1,16 @@
+E:\Teleperformance Camp\OOP\15_ToString\bin\Debug\net5.0\15_ToString.exe
+E:\Teleperformance Camp\OOP\15_ToString\bin\Debug\net5.0\15_ToString.deps.json
+E:\Teleperformance Camp\OOP\15_ToString\bin\Debug\net5.0\15_ToString.runtimeconfig.json
+E:\Teleperformance Camp\OOP\15_ToString\bin\Debug\net5.0\15_ToString.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\15_ToString\bin\Debug\net5.0\15_ToString.dll
+E:\Teleperformance Camp\OOP\15_ToString\bin\Debug\net5.0\15_ToString.pdb
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\15_ToString.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\15_ToString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\15_ToString.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\15_ToString.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\15_ToString.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\15_ToString.dll
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\refint\15_ToString.dll
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\15_ToString.pdb
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\15_ToString.genruntimeconfig.cache
+E:\Teleperformance Camp\OOP\15_ToString\obj\Debug\net5.0\ref\15_ToString.dll

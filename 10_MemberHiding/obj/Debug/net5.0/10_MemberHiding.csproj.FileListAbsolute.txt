@@ -1,0 +1,16 @@
+E:\Teleperformance Camp\OOP\10_MemberHiding\bin\Debug\net5.0\10_MemberHiding.exe
+E:\Teleperformance Camp\OOP\10_MemberHiding\bin\Debug\net5.0\10_MemberHiding.deps.json
+E:\Teleperformance Camp\OOP\10_MemberHiding\bin\Debug\net5.0\10_MemberHiding.runtimeconfig.json
+E:\Teleperformance Camp\OOP\10_MemberHiding\bin\Debug\net5.0\10_MemberHiding.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\10_MemberHiding\bin\Debug\net5.0\10_MemberHiding.dll
+E:\Teleperformance Camp\OOP\10_MemberHiding\bin\Debug\net5.0\10_MemberHiding.pdb
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\10_MemberHiding.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\10_MemberHiding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\10_MemberHiding.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\10_MemberHiding.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\10_MemberHiding.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\10_MemberHiding.dll
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\refint\10_MemberHiding.dll
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\10_MemberHiding.pdb
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\10_MemberHiding.genruntimeconfig.cache
+E:\Teleperformance Camp\OOP\10_MemberHiding\obj\Debug\net5.0\ref\10_MemberHiding.dll
