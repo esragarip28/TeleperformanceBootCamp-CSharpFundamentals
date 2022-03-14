@@ -1,0 +1,16 @@
+E:\Teleperformance Camp\OOP\06_AccessModifiers\bin\Debug\net5.0\06_AccessModifiers.exe
+E:\Teleperformance Camp\OOP\06_AccessModifiers\bin\Debug\net5.0\06_AccessModifiers.deps.json
+E:\Teleperformance Camp\OOP\06_AccessModifiers\bin\Debug\net5.0\06_AccessModifiers.runtimeconfig.json
+E:\Teleperformance Camp\OOP\06_AccessModifiers\bin\Debug\net5.0\06_AccessModifiers.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\06_AccessModifiers\bin\Debug\net5.0\06_AccessModifiers.dll
+E:\Teleperformance Camp\OOP\06_AccessModifiers\bin\Debug\net5.0\ref\06_AccessModifiers.dll
+E:\Teleperformance Camp\OOP\06_AccessModifiers\bin\Debug\net5.0\06_AccessModifiers.pdb
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\06_AccessModifiers.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\06_AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\06_AccessModifiers.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\06_AccessModifiers.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\06_AccessModifiers.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\06_AccessModifiers.dll
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\ref\06_AccessModifiers.dll
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\06_AccessModifiers.pdb
+E:\Teleperformance Camp\OOP\06_AccessModifiers\obj\Debug\net5.0\06_AccessModifiers.genruntimeconfig.cache

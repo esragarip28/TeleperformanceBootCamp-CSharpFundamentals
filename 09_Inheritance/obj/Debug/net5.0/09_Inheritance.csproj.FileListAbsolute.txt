@@ -10,7 +10,7 @@ E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.Assem
 E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.AssemblyInfo.cs
 E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.csproj.CoreCompileInputs.cache
 E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.dll
-E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\refint\09_Inheritance.dll
 E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.pdb
 E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\09_Inheritance.genruntimeconfig.cache
 E:\Teleperformance Camp\OOP\09_Inheritance\obj\Debug\net5.0\ref\09_Inheritance.dll
+E:\Teleperformance Camp\OOP\09_Inheritance\bin\Debug\net5.0\ref\09_Inheritance.dll

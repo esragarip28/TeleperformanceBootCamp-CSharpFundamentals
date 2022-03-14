@@ -10,7 +10,7 @@ E:\Teleperformance Camp\OOP\04_Encapsulation\obj\Debug\net5.0\04_Encapsulation.A
 E:\Teleperformance Camp\OOP\04_Encapsulation\obj\Debug\net5.0\04_Encapsulation.AssemblyInfo.cs
 E:\Teleperformance Camp\OOP\04_Encapsulation\obj\Debug\net5.0\04_Encapsulation.csproj.CoreCompileInputs.cache
 E:\Teleperformance Camp\OOP\04_Encapsulation\obj\Debug\net5.0\04_Encapsulation.dll
-E:\Teleperformance Camp\OOP\04_Encapsulation\obj\Debug\net5.0\refint\04_Encapsulation.dll
 E:\Teleperformance Camp\OOP\04_Encapsulation\obj\Debug\net5.0\04_Encapsulation.pdb
 E:\Teleperformance Camp\OOP\04_Encapsulation\obj\Debug\net5.0\04_Encapsulation.genruntimeconfig.cache
 E:\Teleperformance Camp\OOP\04_Encapsulation\obj\Debug\net5.0\ref\04_Encapsulation.dll
+E:\Teleperformance Camp\OOP\04_Encapsulation\bin\Debug\net5.0\ref\04_Encapsulation.dll

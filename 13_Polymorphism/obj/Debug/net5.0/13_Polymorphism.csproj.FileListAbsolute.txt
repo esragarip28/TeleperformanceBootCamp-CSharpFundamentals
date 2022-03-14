@@ -10,7 +10,7 @@ E:\Teleperformance Camp\OOP\13_Polymorphism\obj\Debug\net5.0\13_Polymorphism.Ass
 E:\Teleperformance Camp\OOP\13_Polymorphism\obj\Debug\net5.0\13_Polymorphism.AssemblyInfo.cs
 E:\Teleperformance Camp\OOP\13_Polymorphism\obj\Debug\net5.0\13_Polymorphism.csproj.CoreCompileInputs.cache
 E:\Teleperformance Camp\OOP\13_Polymorphism\obj\Debug\net5.0\13_Polymorphism.dll
-E:\Teleperformance Camp\OOP\13_Polymorphism\obj\Debug\net5.0\refint\13_Polymorphism.dll
 E:\Teleperformance Camp\OOP\13_Polymorphism\obj\Debug\net5.0\13_Polymorphism.pdb
 E:\Teleperformance Camp\OOP\13_Polymorphism\obj\Debug\net5.0\13_Polymorphism.genruntimeconfig.cache
 E:\Teleperformance Camp\OOP\13_Polymorphism\obj\Debug\net5.0\ref\13_Polymorphism.dll
+E:\Teleperformance Camp\OOP\13_Polymorphism\bin\Debug\net5.0\ref\13_Polymorphism.dll

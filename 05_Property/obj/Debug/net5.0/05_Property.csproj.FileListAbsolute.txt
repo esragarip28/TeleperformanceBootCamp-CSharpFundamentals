@@ -10,7 +10,7 @@ E:\Teleperformance Camp\OOP\05_Property\obj\Debug\net5.0\05_Property.AssemblyInf
 E:\Teleperformance Camp\OOP\05_Property\obj\Debug\net5.0\05_Property.AssemblyInfo.cs
 E:\Teleperformance Camp\OOP\05_Property\obj\Debug\net5.0\05_Property.csproj.CoreCompileInputs.cache
 E:\Teleperformance Camp\OOP\05_Property\obj\Debug\net5.0\05_Property.dll
-E:\Teleperformance Camp\OOP\05_Property\obj\Debug\net5.0\refint\05_Property.dll
 E:\Teleperformance Camp\OOP\05_Property\obj\Debug\net5.0\05_Property.pdb
 E:\Teleperformance Camp\OOP\05_Property\obj\Debug\net5.0\05_Property.genruntimeconfig.cache
 E:\Teleperformance Camp\OOP\05_Property\obj\Debug\net5.0\ref\05_Property.dll
+E:\Teleperformance Camp\OOP\05_Property\bin\Debug\net5.0\ref\05_Property.dll

@@ -1,0 +1,16 @@
+E:\Teleperformance Camp\OOP\11_Sealed\bin\Debug\net5.0\11_Sealed.exe
+E:\Teleperformance Camp\OOP\11_Sealed\bin\Debug\net5.0\11_Sealed.deps.json
+E:\Teleperformance Camp\OOP\11_Sealed\bin\Debug\net5.0\11_Sealed.runtimeconfig.json
+E:\Teleperformance Camp\OOP\11_Sealed\bin\Debug\net5.0\11_Sealed.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\11_Sealed\bin\Debug\net5.0\11_Sealed.dll
+E:\Teleperformance Camp\OOP\11_Sealed\bin\Debug\net5.0\ref\11_Sealed.dll
+E:\Teleperformance Camp\OOP\11_Sealed\bin\Debug\net5.0\11_Sealed.pdb
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\11_Sealed.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\11_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\11_Sealed.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\11_Sealed.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\11_Sealed.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\11_Sealed.dll
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\ref\11_Sealed.dll
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\11_Sealed.pdb
+E:\Teleperformance Camp\OOP\11_Sealed\obj\Debug\net5.0\11_Sealed.genruntimeconfig.cache

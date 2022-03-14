@@ -3,3 +3,14 @@ E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem
 E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.AssemblyInfoInputs.cache
 E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.AssemblyInfo.cs
 E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\12_DiamondProblem\bin\Debug\net5.0\12_DiamondProblem.exe
+E:\Teleperformance Camp\OOP\12_DiamondProblem\bin\Debug\net5.0\12_DiamondProblem.deps.json
+E:\Teleperformance Camp\OOP\12_DiamondProblem\bin\Debug\net5.0\12_DiamondProblem.runtimeconfig.json
+E:\Teleperformance Camp\OOP\12_DiamondProblem\bin\Debug\net5.0\12_DiamondProblem.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\12_DiamondProblem\bin\Debug\net5.0\12_DiamondProblem.dll
+E:\Teleperformance Camp\OOP\12_DiamondProblem\bin\Debug\net5.0\ref\12_DiamondProblem.dll
+E:\Teleperformance Camp\OOP\12_DiamondProblem\bin\Debug\net5.0\12_DiamondProblem.pdb
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.dll
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\ref\12_DiamondProblem.dll
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.pdb
+E:\Teleperformance Camp\OOP\12_DiamondProblem\obj\Debug\net5.0\12_DiamondProblem.genruntimeconfig.cache

@@ -10,7 +10,7 @@ E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.AssemblyInfoInput
 E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.AssemblyInfo.cs
 E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.csproj.CoreCompileInputs.cache
 E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.dll
-E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\refint\02_Intro.dll
 E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.pdb
 E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\02_Intro.genruntimeconfig.cache
 E:\Teleperformance Camp\OOP\02_Intro\obj\Debug\net5.0\ref\02_Intro.dll
+E:\Teleperformance Camp\OOP\02_Intro\bin\Debug\net5.0\ref\02_Intro.dll
