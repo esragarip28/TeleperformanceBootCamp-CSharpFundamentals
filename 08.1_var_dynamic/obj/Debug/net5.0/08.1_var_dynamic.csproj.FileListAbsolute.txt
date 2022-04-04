@@ -1,0 +1,15 @@
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\bin\Debug\net5.0\08.1_var_dynamic.exe
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\bin\Debug\net5.0\08.1_var_dynamic.deps.json
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\bin\Debug\net5.0\08.1_var_dynamic.runtimeconfig.json
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\bin\Debug\net5.0\08.1_var_dynamic.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\bin\Debug\net5.0\08.1_var_dynamic.dll
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\bin\Debug\net5.0\ref\08.1_var_dynamic.dll
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\bin\Debug\net5.0\08.1_var_dynamic.pdb
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\obj\Debug\net5.0\08.1_var_dynamic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\obj\Debug\net5.0\08.1_var_dynamic.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\obj\Debug\net5.0\08.1_var_dynamic.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\obj\Debug\net5.0\08.1_var_dynamic.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\obj\Debug\net5.0\08.1_var_dynamic.dll
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\obj\Debug\net5.0\ref\08.1_var_dynamic.dll
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\obj\Debug\net5.0\08.1_var_dynamic.pdb
+E:\Teleperformance Camp\OOP\08.1_var_dynamic\obj\Debug\net5.0\08.1_var_dynamic.genruntimeconfig.cache

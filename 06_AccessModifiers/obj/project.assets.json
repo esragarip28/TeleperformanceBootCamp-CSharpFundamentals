@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "06.2_AccessModifierLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/06.2_AccessModifierLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/06.2_AccessModifierLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "06.2_AccessModifierLib/1.0.0": {
+      "type": "project",
+      "path": "../06.2_AccessModifierLib/06.2_AccessModifierLib.csproj",
+      "msbuildProject": "../06.2_AccessModifierLib/06.2_AccessModifierLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "06.2_AccessModifierLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Esra\\.nuget\\packages\\": {},
@@ -14,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Teleperformance Camp\\OOP\\06_AccessModifiers\\06_AccessModifiers.csproj",
-      "projectName": "06_AccessModifiers",
-      "projectPath": "E:\\Teleperformance Camp\\OOP\\06_AccessModifiers\\06_AccessModifiers.csproj",
+      "projectUniqueName": "E:\\Teleperformance Camp\\OOP\\06_AccessModifiers\\06.1_AccessModifiers.csproj",
+      "projectName": "06.1_AccessModifiers",
+      "projectPath": "E:\\Teleperformance Camp\\OOP\\06_AccessModifiers\\06.1_AccessModifiers.csproj",
       "packagesPath": "C:\\Users\\Esra\\.nuget\\packages\\",
       "outputPath": "E:\\Teleperformance Camp\\OOP\\06_AccessModifiers\\obj\\",
       "projectStyle": "PackageReference",
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Teleperformance Camp\\OOP\\06.2_AccessModifierLib\\06.2_AccessModifierLib.csproj": {
+              "projectPath": "E:\\Teleperformance Camp\\OOP\\06.2_AccessModifierLib\\06.2_AccessModifierLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

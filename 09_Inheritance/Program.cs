@@ -2,6 +2,11 @@
 
 namespace _09_Inheritance
 {
+    /*
+     When we create an instance from subclass, also, an instance from super class will be created.
+     This super class instance will be in ram.
+     
+     */
     internal class Program
     {
         static void Main(string[] args)

@@ -1,0 +1,15 @@
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\bin\Debug\net5.0\27_ExtensionMethods.exe
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\bin\Debug\net5.0\27_ExtensionMethods.deps.json
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\bin\Debug\net5.0\27_ExtensionMethods.runtimeconfig.json
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\bin\Debug\net5.0\27_ExtensionMethods.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\bin\Debug\net5.0\27_ExtensionMethods.dll
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\bin\Debug\net5.0\ref\27_ExtensionMethods.dll
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\bin\Debug\net5.0\27_ExtensionMethods.pdb
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\obj\Debug\net5.0\27_ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\obj\Debug\net5.0\27_ExtensionMethods.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\obj\Debug\net5.0\27_ExtensionMethods.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\obj\Debug\net5.0\27_ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\obj\Debug\net5.0\27_ExtensionMethods.dll
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\obj\Debug\net5.0\ref\27_ExtensionMethods.dll
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\obj\Debug\net5.0\27_ExtensionMethods.pdb
+E:\Teleperformance Camp\OOP\27_ExtensionMethods\obj\Debug\net5.0\27_ExtensionMethods.genruntimeconfig.cache

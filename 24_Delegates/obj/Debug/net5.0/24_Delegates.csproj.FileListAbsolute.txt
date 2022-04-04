@@ -1,0 +1,15 @@
+E:\Teleperformance Camp\OOP\24_Delegates\bin\Debug\net5.0\24_Delegates.exe
+E:\Teleperformance Camp\OOP\24_Delegates\bin\Debug\net5.0\24_Delegates.deps.json
+E:\Teleperformance Camp\OOP\24_Delegates\bin\Debug\net5.0\24_Delegates.runtimeconfig.json
+E:\Teleperformance Camp\OOP\24_Delegates\bin\Debug\net5.0\24_Delegates.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\24_Delegates\bin\Debug\net5.0\24_Delegates.dll
+E:\Teleperformance Camp\OOP\24_Delegates\bin\Debug\net5.0\ref\24_Delegates.dll
+E:\Teleperformance Camp\OOP\24_Delegates\bin\Debug\net5.0\24_Delegates.pdb
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.dll
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\ref\24_Delegates.dll
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.pdb
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.genruntimeconfig.cache

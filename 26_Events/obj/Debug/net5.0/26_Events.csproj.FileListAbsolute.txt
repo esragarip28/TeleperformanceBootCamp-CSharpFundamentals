@@ -1,0 +1,15 @@
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\26_Events\bin\Debug\net5.0\26_Events.exe
+E:\Teleperformance Camp\OOP\26_Events\bin\Debug\net5.0\26_Events.deps.json
+E:\Teleperformance Camp\OOP\26_Events\bin\Debug\net5.0\26_Events.runtimeconfig.json
+E:\Teleperformance Camp\OOP\26_Events\bin\Debug\net5.0\26_Events.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\26_Events\bin\Debug\net5.0\26_Events.dll
+E:\Teleperformance Camp\OOP\26_Events\bin\Debug\net5.0\ref\26_Events.dll
+E:\Teleperformance Camp\OOP\26_Events\bin\Debug\net5.0\26_Events.pdb
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.dll
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\ref\26_Events.dll
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.pdb
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.genruntimeconfig.cache

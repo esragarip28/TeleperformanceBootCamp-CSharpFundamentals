@@ -1,0 +1,15 @@
+E:\Teleperformance Camp\OOP\17_Abstraction\bin\Debug\net5.0\17_Abstraction.exe
+E:\Teleperformance Camp\OOP\17_Abstraction\bin\Debug\net5.0\17_Abstraction.deps.json
+E:\Teleperformance Camp\OOP\17_Abstraction\bin\Debug\net5.0\17_Abstraction.runtimeconfig.json
+E:\Teleperformance Camp\OOP\17_Abstraction\bin\Debug\net5.0\17_Abstraction.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\17_Abstraction\bin\Debug\net5.0\17_Abstraction.dll
+E:\Teleperformance Camp\OOP\17_Abstraction\bin\Debug\net5.0\ref\17_Abstraction.dll
+E:\Teleperformance Camp\OOP\17_Abstraction\bin\Debug\net5.0\17_Abstraction.pdb
+E:\Teleperformance Camp\OOP\17_Abstraction\obj\Debug\net5.0\17_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\17_Abstraction\obj\Debug\net5.0\17_Abstraction.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\17_Abstraction\obj\Debug\net5.0\17_Abstraction.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\17_Abstraction\obj\Debug\net5.0\17_Abstraction.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\17_Abstraction\obj\Debug\net5.0\17_Abstraction.dll
+E:\Teleperformance Camp\OOP\17_Abstraction\obj\Debug\net5.0\ref\17_Abstraction.dll
+E:\Teleperformance Camp\OOP\17_Abstraction\obj\Debug\net5.0\17_Abstraction.pdb
+E:\Teleperformance Camp\OOP\17_Abstraction\obj\Debug\net5.0\17_Abstraction.genruntimeconfig.cache
