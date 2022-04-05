@@ -1,0 +1,16 @@
+E:\Teleperformance Camp\OOP\22_Struct\bin\Debug\net5.0\22_Struct-Enum.exe
+E:\Teleperformance Camp\OOP\22_Struct\bin\Debug\net5.0\22_Struct-Enum.deps.json
+E:\Teleperformance Camp\OOP\22_Struct\bin\Debug\net5.0\22_Struct-Enum.runtimeconfig.json
+E:\Teleperformance Camp\OOP\22_Struct\bin\Debug\net5.0\22_Struct-Enum.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\22_Struct\bin\Debug\net5.0\22_Struct-Enum.dll
+E:\Teleperformance Camp\OOP\22_Struct\bin\Debug\net5.0\ref\22_Struct-Enum.dll
+E:\Teleperformance Camp\OOP\22_Struct\bin\Debug\net5.0\22_Struct-Enum.pdb
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\22_Struct-Enum.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\22_Struct-Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\22_Struct-Enum.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\22_Struct-Enum.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\22_Struct-Enum.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\22_Struct-Enum.dll
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\ref\22_Struct-Enum.dll
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\22_Struct-Enum.pdb
+E:\Teleperformance Camp\OOP\22_Struct\obj\Debug\net5.0\22_Struct-Enum.genruntimeconfig.cache

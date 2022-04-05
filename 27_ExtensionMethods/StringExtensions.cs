@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace _27_ExtensionMethods
 {
     public static class StringExtensions
     {
+        /*
+         * extension class must be public and static.
+         */
         public static string ReverseString(this string text)
         {
             string reversed = string.Empty;

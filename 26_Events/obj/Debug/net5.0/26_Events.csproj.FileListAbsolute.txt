@@ -13,3 +13,4 @@ E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.dll
 E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\ref\26_Events.dll
 E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.pdb
 E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.genruntimeconfig.cache
+E:\Teleperformance Camp\OOP\26_Events\obj\Debug\net5.0\26_Events.csproj.AssemblyReference.cache

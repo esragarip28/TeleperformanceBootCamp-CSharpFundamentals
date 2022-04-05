@@ -9,7 +9,7 @@ namespace _26_Events
     delegate void HandUpHandler(Student student);
     class Student
     {
-
+        /*Event must be delegate type.*/
         public string Name { get; set; }
 
         public event HandUpHandler HandUp;
@@ -17,5 +17,7 @@ namespace _26_Events
         {
             HandUp(this);
         }
+
+      
     }
 }

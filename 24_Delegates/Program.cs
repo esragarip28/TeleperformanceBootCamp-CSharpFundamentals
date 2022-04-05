@@ -3,10 +3,17 @@
 namespace _24_Delegates
 {
     delegate void MyHandler(int num);
+    delegate void MyDelegate();
     class Program
     {
         static void Main(string[] args)
         {
+            MyDelegate myDelegate = new MyDelegate(Sum);
+            myDelegate += Subtract;
+            myDelegate();
+            myDelegate-=Sum;
+            //myDelegate() or myDelegate.invoke()
+            myDelegate.Invoke();
             Helper helper = new();
             //helper.AddMethod(delegate ()
             //{
@@ -21,6 +28,15 @@ namespace _24_Delegates
             helper.HandlerMethod(5);
             Console.ReadKey();
         }
+
+        static void Sum()
+        {
+            Console.WriteLine("Calling sum method...");
+        }
+        static void Subtract()
+        {
+            Console.WriteLine("Calling subtract method...");
+        } 
     }
 
     class Helper

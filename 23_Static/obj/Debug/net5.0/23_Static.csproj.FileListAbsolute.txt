@@ -1,0 +1,16 @@
+E:\Teleperformance Camp\OOP\23_Static\bin\Debug\net5.0\23_Static.exe
+E:\Teleperformance Camp\OOP\23_Static\bin\Debug\net5.0\23_Static.deps.json
+E:\Teleperformance Camp\OOP\23_Static\bin\Debug\net5.0\23_Static.runtimeconfig.json
+E:\Teleperformance Camp\OOP\23_Static\bin\Debug\net5.0\23_Static.runtimeconfig.dev.json
+E:\Teleperformance Camp\OOP\23_Static\bin\Debug\net5.0\23_Static.dll
+E:\Teleperformance Camp\OOP\23_Static\bin\Debug\net5.0\ref\23_Static.dll
+E:\Teleperformance Camp\OOP\23_Static\bin\Debug\net5.0\23_Static.pdb
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\23_Static.csproj.AssemblyReference.cache
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\23_Static.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\23_Static.AssemblyInfoInputs.cache
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\23_Static.AssemblyInfo.cs
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\23_Static.csproj.CoreCompileInputs.cache
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\23_Static.dll
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\ref\23_Static.dll
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\23_Static.pdb
+E:\Teleperformance Camp\OOP\23_Static\obj\Debug\net5.0\23_Static.genruntimeconfig.cache

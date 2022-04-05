@@ -13,3 +13,4 @@ E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.dll
 E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\ref\24_Delegates.dll
 E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.pdb
 E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.genruntimeconfig.cache
+E:\Teleperformance Camp\OOP\24_Delegates\obj\Debug\net5.0\24_Delegates.csproj.AssemblyReference.cache
